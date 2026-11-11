@@ -1,8 +1,8 @@
-# DigiSigner by DEV SEC IT Private Limited
+# DigiSigner by DEV SEC IT
 
 Enterprise PAdES Digital Signature Certificate (DSC) Signer, Hardware Token Bridge, and Document Certification Suite for Microsoft Windows and Chromium Browsers.
 
-- **Publisher:** DEV SEC IT Private Limited
+- **Publisher:** DEV SEC IT
 - **Website:** https://in.devsecit.com
 - **Support Email:** support@devsecit.com
 - **Phone:** +91 8101 979855
@@ -59,5 +59,5 @@ DigiSigner applies compliant PAdES CAdES-detached SHA-256 signatures with Window
 
 ---
 
-Copyright (c) 2026 DEV SEC IT Private Limited. All rights reserved.
+Copyright (c) 2026 DEV SEC IT. All rights reserved.
 
